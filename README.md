@@ -6,7 +6,7 @@ Welcome to my GitHub profile. I like to keep my work cleanly organized by progra
 **[📂 View my Python Projects Repository](https://github.com/mariusalexciama2006-max/Python-Collection)**
 *This repository contains all my Python work, including:*
 * `Desktop-Organizer` - This script organises the files from your desktop and places them in the appropriate folder.
-* `Calculator` - 
+* `Calculator` - This script creates a simple calculator using Python UI.
 
 ###  VHDL
 **[📂 View my VHDL Projects Repository](https://github.com/mariusalexciama2006-max/VHDL-Collection)**
