@@ -14,3 +14,8 @@ Welcome to my GitHub profile. I like to keep my work cleanly organized by progra
 *This repository contains all my VHDL designs, including:*
 * `Automatic-Parking` - This hardware design checks how many free spaces are left, using the sensors from the entry/exit gates.
 * `Coca-Cola-Vending-Machine` - This hardware design shows exactly how many coins the vending machine has to return.
+
+###  C
+**[📂 View my C Projects Repository](https://github.com/mariusalexciama2006-max/C-Collection)**
+*This repository contains all my VHDL designs, including:*
+
