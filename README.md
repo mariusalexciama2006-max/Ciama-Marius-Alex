@@ -20,7 +20,7 @@ Welcome to my GitHub profile. I like to keep my work cleanly organized by progra
 *This repository contains all my C work, including:*
 
 ###  ReverseEngineering 
-**[📂 View my ReverseEngineering  Projects Repository](https://github.com/mariusalexciama2006-max/ReverseEngineering-Collection)**
+**[📂 View my ReverseEngineering  Projects Repository](https://github.com/mariusalexciama2006-max/ReverseEngineering)**
 *This repository contains all my ReverseEngineering  work, including:*
 * `RE7` - This target executable required two specific inputs to unlock the success state.
 * `patchMe2_revamped` - Bypassed anti-tampering state machines and nag screens by injecting JMP and RET opcodes to manipulate control flow.
