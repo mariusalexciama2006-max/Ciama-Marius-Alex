@@ -18,6 +18,7 @@ Welcome to my GitHub profile. I like to keep my work cleanly organized by progra
 ###  C
 **[📂 View my C Projects Repository](https://github.com/mariusalexciama2006-max/C-Collection)**
 *This repository contains all my C work, including:*
+* `Maze` - A terminal-based maze generator (DFS) and shortest-path solver (BFS) built from scratch using custom stack and queue data structures.
 
 ###  ReverseEngineering 
 **[📂 View my ReverseEngineering  Projects Repository](https://github.com/mariusalexciama2006-max/ReverseEngineering)**
