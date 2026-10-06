@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marius!
 
-Welcome to my GitHub profile. I like to keep my work cleanly organized by programming language. You can browse all my projects in the collections below:
+Welcome to my GitHub profile. You can browse all my projects in the collections below:
 
 ###  Python
 **[📂 View my Python Projects Repository](https://github.com/mariusalexciama2006-max/Python-Collection)**
